@@ -2,7 +2,7 @@ krunk
 =====
 Santadreams krunk is a web based billing software with most advanced and user friendly interface. 
 
-Deadline will be before 23th Dec, 2013
+Official release date - 23th Dec, 2013
 ======================================
 
 License
