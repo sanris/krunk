@@ -24,7 +24,7 @@ Task Details
 pre-production
 
 - [x] Prepare files & folder structure
-- [x] Prepare database
+- [ ] Prepare database
 - [x] Prepare framework
 - [ ] prepare installation setup
 - [ ] prepare UI screens
